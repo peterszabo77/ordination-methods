@@ -1,2 +1,20 @@
 # ordination-methods
 implementation of a few ordination methods in Python and R
+
+## Ordination methods
+
+- principal component analysis (PCA)
+- metric multidimensional scaling (MDS)
+- non-metric nultidimensional scaling (NMDS)
+- t-distributed stochastic neighbor embedding (t-SNE)
+
+## Software / libraries
+- Python: pandas, numpy, sklearn, matplotlib 
+- R: dplyr, MASS, Rtsne
+
+## Results (applied to the Iris dataset)
+
+Red nodes indicate those species whose interactions were wrongly predicted (missing or erroneous predator-prey connections).
+
+![results](https://github.com/peterszabo77/foodweb/blob/master/images/results.png)
+
