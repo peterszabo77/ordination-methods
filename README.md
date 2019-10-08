@@ -16,5 +16,5 @@ implementation of a few ordination methods in Python and R
 
 Red nodes indicate those species whose interactions were wrongly predicted (missing or erroneous predator-prey connections).
 
-![results](https://github.com/peterszabo77/foodweb/blob/master/images/results.png)
+![results](https://github.com/peterszabo77/ordination-methods/blob/master/images/ordination_in_Python.png)
 
