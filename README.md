@@ -14,7 +14,10 @@ implementation of a few ordination methods in Python and R
 
 ## Results (applied to the Iris dataset)
 
-Red nodes indicate those species whose interactions were wrongly predicted (missing or erroneous predator-prey connections).
+### Python
 
 ![results](https://github.com/peterszabo77/ordination-methods/blob/master/images/ordination_in_Python.png)
 
+### R
+
+![results](https://github.com/peterszabo77/ordination-methods/blob/master/images/ordination_in_R.png)
