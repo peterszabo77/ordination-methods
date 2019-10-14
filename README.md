@@ -20,5 +20,5 @@ implementation of a few ordination methods in Python and R
 
 ### R
 
-![results](https://github.com/peterszabo77/ordination-methods/blob/master/images/ordination_in_R.png)
+
 
